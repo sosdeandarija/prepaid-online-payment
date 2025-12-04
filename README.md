@@ -3,7 +3,7 @@ This project was developed as the final practical assignment in a company's inte
 The goal of the task was to create a responsive online prepaid service website using only HTML, CSS, and JavaScript, without any frameworks.
 The focus was on clean UI, functional JavaScript logic, and a user-friendly layout.
 
-🔗 Live Demo: https://sosdeandarija.github.io/a1/
+🔗 Live Demo: https://sosdeandarija.github.io/prepaid-online-payment/
 
 ✨ Features:
 
